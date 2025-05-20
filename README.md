@@ -1,2 +1,2 @@
 # Class-1
-Ps es clase 1
+Clase 1
